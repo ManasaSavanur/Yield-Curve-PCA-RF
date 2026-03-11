@@ -1,6 +1,9 @@
 # Yield Curve Analysis and 30-Year Yield Prediction Using PCA and Random Forest
 This project demonstrates how to generate synthetic yield curve data modeled after the Nelson-Siegel framework, apply Principal Component Analysis (PCA) for dimensionality reduction, and use a Random Forest regressor to predict the 30-year yield.
 
+<img width="800" height="500" alt="Term Structure" src="https://github.com/user-attachments/assets/719c8cd6-94e0-4f9a-b441-7d9dd27efa1a" />
+
+
 # Features
 📊 Synthetic Data Generation: Simulates yield curves based on level, slope, and curvature components typical in yield curve modeling.
 
